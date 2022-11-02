@@ -6,7 +6,7 @@ allocation decisions. In addition, it is used for as an assortment optimization 
 at what time during the year.
 
  ## Problem Statement
- The datatset is from a retail store that has multiple outlets across the country and  are facing issues in managing the inventory - to match the demand with 
+ The dataset is from a retail store that has multiple outlets across the country and  are facing issues in managing the inventory - to match the demand with 
  respect to supply. The task is to come up with useful insights using the data and make prediction models to forecast the sales for X number of months/years.
  
  ## Project Objective
@@ -21,7 +21,7 @@ at what time during the year.
  In the notebook we have carried out sales forecasting for Store 10. The distribution of weekly sales is positively skewed. 
 We see the weekly sales of the data across all the stores to get an idea.  Without considering holidays Store 4 has maximum weekly sales.When considering holiday we see Store 10 has maximum weekly sales followed by Store 20. 
 The maximum weekly sales happens during the Christmas week(Week 51) which was  3818686.45.
-From the average weekly sales grapgh for the stores it is clear that there is seasonality and no trend.
+From the average weekly sales graph for the stores it is clear that there is seasonality and no trend.
 For seasonality it is clear that 1.Seasonality - High-Point: It seems there are some seasonality to our data, where the end of December seems like a popular time to buy specific products from the company. My assumptions is that this has to do with the holidays and people buy gifts for each other, which makes sense. 
 2.Seasonality - Low-Point: Around the end of january it seems to be a pretty steep dip in the different stores sales both during 2011 and 2012.
 
